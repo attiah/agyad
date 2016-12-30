@@ -23,35 +23,15 @@
     <preference name="disable-cursor" value="false" />
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
-    <gap:plugin name="org.apache.cordova.battery-status" />
-    <gap:plugin name="org.apache.cordova.camera" />
-    <gap:plugin name="org.apache.cordova.media-capture" />
-    <gap:plugin name="org.apache.cordova.console" />
-    <gap:plugin name="org.apache.cordova.contacts" />
-    <gap:plugin name="org.apache.cordova.device" />
-    <gap:plugin name="org.apache.cordova.device-motion" />
-    <gap:plugin name="org.apache.cordova.device-orientation" />
-    <gap:plugin name="org.apache.cordova.file" />
-    <gap:plugin name="org.apache.cordova.file-transfer" />
-    <gap:plugin name="org.apache.cordova.geolocation" />
-    <gap:plugin name="org.apache.cordova.globalization" />
-    <gap:plugin name="org.apache.cordova.inappbrowser" />
-    <gap:plugin name="org.apache.cordova.media" />
-    <gap:plugin name="org.apache.cordova.network-information" />
+    
     <plugin name="cordova-plugin-splashscreen" spec="2.1.0" source="pgb" />
-    <gap:plugin name="org.apache.cordova.vibration" />
     <gap:plugin name="cordova-plugin-whitelist" source="npm" />
-    <plugin name="com.onesignal.plugins.onesignal" spec="1.9.0" source="pgb" />
-    <plugin name="org.apache.cordova.geolocation" spec="0.3.12" source="pgb" />
-    <plugin name="com.developersanddesigners.phonegapdialogs" spec="1.1.1" source="pgb" />
+  
   
   <!-- Recommend the newest cli but requires cli-5.1.1+ and gradle for Android. -->
   <!-- If the below settings are not compatible with your project set the "PGB ANT" version above. -->
  
  
-    <gap:plugin name="com.phonegap.plugins.barcodescanner" version="1.1.0" />
-    <plugin name="com.justinzablocki.cordova.plugin.canvascamera" spec="1.0.1" source="pgb" />
-
 
   <icon src="icon.png" />
   
